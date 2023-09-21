@@ -15,4 +15,5 @@ function countDown(pinteger){
     pinteger--;
   }
 }
+
 countDown(10);
